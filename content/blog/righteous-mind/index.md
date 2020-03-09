@@ -1,11 +1,9 @@
 ---
-title: the righteous mind
+title: jonathan haidt | the righteous mind
 date: "2020-03-08T00:00:00.000Z"
-bookAuthor: "jonathan haidt"
 description: "why good people are divided by politics and religion"
 ---
 
-[Figures-for-The-Righteous-Mind.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/277802cb-8d66-4917-84f7-1c9a036b7466/Figures-for-The-Righteous-Mind.pdf)
 
 ## TLDR
 
@@ -259,3 +257,289 @@ Liberals are based on 3 foundations. Conservatives appeal to all 6.
 - Care/Harm
 - Liberty/Oppression
     - right to be left alone (libertarian)
+- Fairness/Cheating
+    - People dont get what they dont work for
+- Loyalty/Betrayal
+- Authority/Subversion
+- Sanctity/Degradation
+
+> Liberals may think that they may own the concept of Karma, but a morality based on compassion and concerns of oppression forces you to violate karma (proportionality) in many ways.
+
+---
+
+## Chapter 9
+
+### Why are we so groupish
+
+After 9/11, we naturally felt desire to raise a flag. We wanted to show our team.
+
+We are groupish, but also self interested individuals. Weird combination.
+
+- Individual Selection
+    - ind vs ind selects out the more fit ind
+- Group Selection
+    - groups vs groups selects out the more fit group
+        - the group that can be most cooperative and achieve more wins
+
+Adaption and Natural Selection 1966
+
+- If you can identify a reason for adaption at the individual level, you dont have to look to another level to explain it
+- A fast herd of deer
+    - its not the herd, its because the individuals that are fast dont die, so eventually you have a fast herd
+- Wings on a bird
+    - designed for flight to the individual, not for the group
+
+Morality is the key to understanding humanity.
+
+Scholars have rejected group selection, with arguments looking at other species. But humans are different. We have worked together and created culture. Just like biological evolution, we have had cultural evolution that has led us to work together.
+
+### Timeline of Man
+
+- 5-7 Million years ago
+    - Humans diverge from chimps and bonobos
+- 4 Million years ago
+    - australopithecus (lucy) emerge - fossils found in africa
+- 2.4 Million years ago
+    - genus Homo
+- 1.8 Million years ago
+    - acheulean toolkit appears
+- 500-700 Thousand years ago
+    - "Crossing the rubicon moment"
+    - Homo heidelbergensis
+        - started to work together
+        - hunting with spears, cooking on hearths
+        - divide labor and share cultural norms
+- 50-70 Thousand years ago
+    - Migrate out of Africa and Middle East
+- 20 Thousand years ago
+    - Holocene , agriculture and herding
+- 2-7 Thousand years ago
+    - City states and empires
+- 10 Years ago
+    - Facebook links .5 Billion together
+
+Foxes
+
+- 30 generations of breeding tame foxes led to them being able to be kept as pets
+
+Chickens
+
+- breeding for the hens that lay the most (individual) is actually not the best
+- hens live together and so the ones that lay the most are the most aggresive
+- using group selection
+    - pick the cages that product the most
+    - within 3 months aggression reduced
+    - within 6 months death rate was very low
+
+Its not just war - whatever traits make a group better at turning resources into offspring will win
+
+- Darwin combination of individual and group selection
+- his theory was refuted by the 'free rider' problem
+
+Multilevel selection helps explain the morality of humans and why we are so selfish and so groupish
+
+We are 90% Chimp and 10% Bee
+
+---
+
+## Chapter 10
+
+### The Hive Switch
+
+Hive Hypothesis: Human are conditional hive creatures - we have ability to lose ourself for something larger than ourselves. This ability is from evolution, group selection has created people that have this ability because it gave them advantage of cooperation against threats.
+
+Being in a group can lead to stronger emotions than if you were doing it as in individual. There is an emotion that flips on our hive switch. We feel connected to the group and feel like we are reaching a high level of feeling.
+
+examples:
+
+1. being in nature
+2. drugs
+3. raves
+
+### oxytocin
+
+oxytocin responses lead us to unite together and feel better about others. so if we give eveyrone oxytocin, will war ends? no. it doesnt transcend beyond our in group. we are dutch, we like dutch names more. but doesnt change our views on islam.
+
+### mirror neurons
+
+helps us determine the intent of actions in others.
+
+### what do we do
+
+- stop thinking so much about leadership
+    1. studying leadership is like studying clapping, but just looking at the left hand
+    2. its not hard to imagine why people would want to lead
+    3. it is more important to know why people are willing to follow
+
+1. increase similarity
+    1. magnify the things that are the same, they can drown out the differences
+2. increase synchronicity
+    1. get people moving together
+    2. hakka
+3. healthy competition on teams, not individuals
+    1. intergroup increase more ingroup cohesion, than hate to out groups.
+
+### summary
+
+hiving comes naturally, easy, and joyfully to us. its purpose is to unite us to peers. its not to be feared, just used correctly.
+
+used to think happiness came from within, it was about changing who you are and what you want
+
+learned that happiness comes from "between" - between yourself and [others], [work] and [something larger than yourself]
+
+we evolved to have a group overlay to our happiness. we need groups
+
+---
+
+## Chapter 11
+
+### Religion is a team sport
+
+Religion - social facts, cant be studied in the individual, unified system of beliefs in regard to the sacred
+
+after 9/11 - religion was attacked, specifically islam, but led to a general attack
+
+ new atheism (4 main authors)
+
+- sam harris - end of faith
+- richard dawkins - god delusion
+- daniel dennet - breaking the spell
+- christopher hitchens - god is not great, how religion poisons everything
+
+evolution weeds out ineffective beahavior. if a trait is not helpful it will be removed over many generations. why is religion so pervasive and every group has created a religion?
+
+either 1) it is helpful or 2) humans have somehow gone against the tide and somehow held on to this behavior against all evolutionary efforts
+
+### new atheism story
+
+- agency detection module
+    - we walk through the woods and notice things that are byproducts of agency. we dont notice much the wind blowing a pinecone, but we would notice a branch that was clawed by a bear.
+    - we notice things that we perceive are done by something with agency
+    - if weather is bad, we might assume that god is mad at us. we are hijacking this trait of detecting agency and falsely perceiving agency behind it
+    - you might think that our noses evolved to have a bridge so it could hold up glasses, but really we have just reused it
+- gullible learning module
+    - selective advantage to children who just believe parents without question
+- falling in love module
+    - we have fallen in love with a god
+- minds were designed for dualism,
+    - mind and body are separate but both very real, must have an eternal spirit
+
+### a better story
+
+religions help groups cooperate, so when they win, the people dont evolve but their ideas do. the religion gets picked up by the defeated and over time it changes.
+
+religion does help groups cohere, solve free rider problem, and contribute to groups overall survival
+
+> communes - the more sacrifices a commune demanded the longer the commune lasted. especially if those practices are attached to the sacred.
+
+Bali - Subak
+
+- irrigation system, very advanced and well done
+- tragedy of commons problem solved by bring in temple worship at the fork of each channel
+- promotes unity and willingness to share and care for commons
+- [https://en.wikipedia.org/wiki/Subak_(irrigation)](https://en.wikipedia.org/wiki/Subak_(irrigation))
+
+gods and religion are group level adaptations. group selection can move quickly
+
+genes, brains, groups, religion all co-evolve into a tight embrace
+
+maypole dance (dancers with ribbons tie as they dance around the pole, weaving the ribbons together)
+
+studies show religious people are more charitable (money and time) and they give through the religious group
+
+you might think that religious people dont have much left to give after this charitable giving. but they do consistently give just as much if not more to secular groups as well. (american grace book, putnam and campbell)
+
+morality:
+
+> Moral systems are interlocking sets of values, practices, institutions, and evolved psychological mechanisms that work together to suppress or regulate selfishness and make social life possible
+
+summary
+
+- durkheim - humans want to belong
+- darwin - humans are exposed to group selection
+- you get religion
+    - helps us belong and feel included
+    - our group is more successful and we win
+
+---
+
+## Chapter 11
+
+### Cant We all Disagree more Constructively?
+
+Genetic basis for your ideology. Twins raised by different families were more similar, then kids raised in own home. genes can explain 33-50% of your leanings.
+
+Personality Levels
+
+1. Dispositional Traits
+    1. naturally try, curious about experiences etc..
+2. Character Adaptations
+    1. what you do because of your environment
+3. Integrative Life Story
+    1. our experiences that give us meaning
+
+Conservative Claims
+
+- people will act badly when accountability is removed
+    - glaucon
+- reason is prone to overconfidence
+    - hume, baron cohen
+- institutions emerge gradual as social facts, that we except as sacred, but strip of authority and you see its part of our groupish evolution
+    - durkheim
+
+> Social cohesion is a necessity, and mankind has never yet succeeded in enforcing cohesion by merely rational arguments. Every community is exposed to two opposite dangers: ossification through too much discipline and reverence for tradition, on the one hand; and on the other hand, dissolution, or subjection to foreign conquest, through the growth of individualism and personal experience that makes cooperation impossible
+
+Bertrand Russell
+
+Yin and Yan - Change and Stability
+
+### Liberal Wisdom
+
+- governments can and should restrain cooperate super powers
+    - many coops are not held accountable and dont operate transparent
+    - they sort of have a ring of gyges, this leads to bad outcome
+    - efficient markets requires regulation
+- regulation can be helpful
+    - gas refineries put led in gasoline to make it more efficient
+    - led was coming out of exhaust, causing lots of issues, retarding neural growth
+    - led was high in children
+    - regulation forced companies to come fix this
+    - liberals entered and improved the situation, conservatives may think all regulation will have bad externalities
+
+### Libertarian Wisdom
+
+- strongest moral foundation is liberty/oppression
+- markets are miraculous
+    - so much goes into providing a can of peas for under a dollar
+    - medical industry is case of failed open market
+        - go to store, get whatever you want dont see prices, take to cashier and pay flat 10 dollars
+
+### Conservative Wisdom
+
+- preserve moral capital - dont destroy the hive
+    - Liberals standup to fight for the oppressed - but sometimes this zeal pushes them to hurt moral capital (weaken group and institutions)
+        - welfare programs in 1960
+            - aimed to improve life of poor, reduced value of marriage, increased out of wedlock births, weakened african american families
+        - empowering students in 1970
+            - eroded moral authority and capital in schools
+            - created disorderly societies that hurt the poor above all
+        - spanish immigrants in 1980
+            - led to multi cultural programs that emphasized difference rather than united on similarities
+    - sometimes they hurt the group they are trying to help
+
+### Summary
+
+- we are predisposed to join teams - to choose sides
+- once on that team - we enter a moral matrix where it is hard to see the other side
+- libs and cons are yin and yan - need both to move forward
+
+---
+
+## Conclusion
+
+- Remember horse and rider - when you find yourself making post hoc arguments, take a step back
+- Beware of anyone that believes there is 1 moral way to meet a challenge - there are many configurations of morality
+- small bump on back of our heads, the hive switch - we all have capacity to put aside self for the group
+
+
+[Figures-for-The-Righteous-Mind.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/277802cb-8d66-4917-84f7-1c9a036b7466/Figures-for-The-Righteous-Mind.pdf)
