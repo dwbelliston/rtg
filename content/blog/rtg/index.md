@@ -4,9 +4,7 @@ date: "2019-12-07T22:12:03.284Z"
 description: "Be rich toward God"
 ---
 
-"The ground of a certain rich man brought forth plentifully:"
-
-- Luke 12:16
+> "The ground of a certain rich man brought forth plentifully:" - Luke 12:16
 
 And then what did he do with it? What would you do with it? What am I doing with the harvest?
 
@@ -15,21 +13,15 @@ We can read this parable and see the very obvious lesson to be learned, be chari
 In addition to that, I read this parable in a less literal way, which is often in scriptures where the writers is trying to lead the reader as we know. Lets look at a few more verses and think about this in a spiritual sense, dont think literal fruit.
 
 
-"And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits? And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods. And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry."
-
-- Luke 12:17-19
+> "And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits? And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods. And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry." - Luke 12:17-19
 
 Rich man is gonna be fat and happy the rest of his life, things are looking good for him, until they are not...
 
-"But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?"
-
-- Luke 12:20
+> "But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?" - Luke 12:20
 
 Dang, its all gone just like that. His fate is not unique though, all people are then brought it to this story with a warning that we could join this rich man if we fill our own barns.
 
-"So is he that layeth up treasure for himself, and is not rich toward God."
-
-- Luke 12:20
+> "So is he that layeth up treasure for himself, and is not rich toward God." - Luke 12:20
 
 A core message of the Gospel of Christ. Focus on giving. Focus on the humans around you. You cant cultivate a heart for the world if you are focused on yourself.
 
