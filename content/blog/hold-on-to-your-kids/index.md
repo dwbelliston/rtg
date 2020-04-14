@@ -4,7 +4,7 @@ date: "2020-04-13T00:00:00.000Z"
 description: "its about relationships, not mastery of skills"
 ---
 
-![https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb613e23d-c549-4d33-a056-94b9e523b8e5%2FUntitled.png?table=block&id=d13dd8aa-7be1-448d-81a9-1e2244cdfb10&width=360&cache=v2)
+![BookCover](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb613e23d-c549-4d33-a056-94b9e523b8e5%2FUntitled.png?table=block&id=d13dd8aa-7be1-448d-81a9-1e2244cdfb10&width=360&cache=v2)
 
 # Part 1 - Phenomenon of Peer Orientation
 
